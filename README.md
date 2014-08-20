@@ -14,13 +14,10 @@ Steps to Reproduce
 ---
 
 1. Build and run the attached demo app.
-2. Swipe to enter delete mode on any of the numbered rows.
 
-Note that the first row changes background color.
+2. Swipe to enter delete mode on any of the numbered rows. Note that the first row changes background color.
 
-3. Cancel delete mode by tapping elsewhere.
-
-Note that the first row animates incorrectly.
+3. Cancel delete mode by tapping elsewhere. Note that the first row animates incorrectly.
 
 4. Swipe to delete any of the numbered rows again.
 
